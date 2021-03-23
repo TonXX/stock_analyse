@@ -3,7 +3,7 @@ import tushare as ts
 from datetime import datetime
 
 # 设置token
-ts.set_token('58416eccf52c88ff93344531998b2973ac8d3aa6180c46d6299801e1')
+ts.set_token('58416eccf52c88ff93344531998b2973ac8d3aa6180c46d629980xxx')
 # 初始化pro接口
 pro = ts.pro_api()
 
